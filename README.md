@@ -1,3 +1,9 @@
+## 新しいコンテストを始める場合
+
+```
+$ atcoder-tools gen abc334
+```
+
 ## VS Code ショートカット
 
 - Ctrl + t ... テスト
@@ -8,6 +14,7 @@
 ## G++がメジャーアップデートしたら
 
 リンクを貼り直さなければならない
+最新の brew の実行ファイルは`/opt/homebrew/bin`にある
 
 [参考](https://qiita.com/granddaifuku/items/c26b58b89d73b4a3de98)
 
